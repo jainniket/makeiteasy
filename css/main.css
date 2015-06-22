@@ -289,7 +289,7 @@ input.search-form:hover {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover{
-	background-color: #c52d2f;
+  background-color: #c52d2f;
   color: #fff;
 }
 
@@ -559,7 +559,7 @@ input.search-form:hover {
   font-size: 48px;
   height: 110px;
   width: 110px;
-  margin: 3px;
+  margin: 7px;
   border-radius: 100%;
   line-height: 110px;
   text-align:center;
